@@ -1,6 +1,5 @@
 
 #### 使用
-[V:Code-Bin]()
 
 `python install -r requirements.txt`
 
@@ -9,7 +8,7 @@
 
 
 #### 测试用例
-
+如有其它小程序逆向 联系V:Code-Bin
 ```
 cookie = 你抓取的cookie
 match_sid = re.search(r'o2o_m_h5_sid=([\w-]+)', cookie).group(1)
